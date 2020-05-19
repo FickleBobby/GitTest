@@ -1,0 +1,12 @@
+New Feature
+
+ADDED THIS LINEgi
+
+And this LINE
+
+Fixed a bug
+
+Added another feature
+
+Ready to merge/rebase
+
